@@ -12,19 +12,19 @@ License
 # Description
 The Nike Store website is designed to showcase and sell various Nike shoe collections. It features a modern and responsive design, making it accessible on different devices.
 
-# Features
+# Features 🚀
 1.Display of different shoe collections (Air Force, Jordan, Blazer, Crater, Hippie).
 Interactive slider for showcasing featured products.
 Product details page with options for color and size selection.
 Checkout process with payment information.
 
-# Installation
+# Installation 🛠️
 1. Clone the repository: git clone https://github.com/Nitya-Kalloli/nike-store.git
 2. Install dependencies: npm install
 3. Run the development server: npm start
 4. Start the application via live server
 
-# Usage
+# Usage 
 Open the website in a web browser.
 Navigate through the different sections using the navigation menu.
 View product details by clicking on the product image.
