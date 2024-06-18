@@ -1,5 +1,5 @@
 # Nike Store Website
-This is a fictional website for a Nike store, showcasing various Nike shoe collections.
+This is a fictional website for a Nike store, showcasing various Nike shoe collections. The frontend has been developed.
 
 ## Table of Contents
 Description
@@ -13,10 +13,10 @@ License
 The Nike Store website is designed to showcase and sell various Nike shoe collections. It features a modern and responsive design, making it accessible on different devices.
 
 # Features 🚀
-1.Display of different shoe collections (Air Force, Jordan, Blazer, Crater, Hippie).
-Interactive slider for showcasing featured products.
-Product details page with options for color and size selection.
-Checkout process with payment information.
+1. Display of different shoe collections (Air Force, Jordan, Blazer, Crater, Hippie).
+2. Interactive slider for showcasing featured products.
+3. Product details page with options for color and size selection.
+4. Checkout process with payment information.
 
 # Installation 🛠️
 1. Clone the repository: git clone https://github.com/Nitya-Kalloli/nike-store.git
